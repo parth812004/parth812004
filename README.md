@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth812004&label=Profile%20views&color=0e75b6&style=flat" alt="parth812004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth812004" alt="parth812004" /></a> </p>
-
 - 🔭 I’m currently working on **Ethical Hacking Virtual Lab**
 
 - 🌱 I’m currently learning **Java, Python, JS**

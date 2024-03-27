@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ethical Hacking Virtual Lab**
 
-- 🌱 I’m currently learning **Java, Python, JS**
+- 🌱 I’m currently learning **Java, Python, JS and DSA**
 
 - 💬 Ask me about **DSA in C++**
 

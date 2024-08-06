@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/parth812004?tab=repositories](https://github.com/parth812004?tab=repositories)
 
-- 💬 Ask me about **DSA, C++**
+- 💬 Ask me about **DSA, C++, Web Development**
 
 - 📫 How to reach me **premparth9892@gmail.com**
 

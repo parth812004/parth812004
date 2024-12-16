@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth812004" alt="parth812004" /></a> </p>
 
-- 🔭 I’m currently working on [DSA](https://github.com/parth812004/DSA.git)
+- 🔭 I’m currently working on [DSA](https://github.com/parth812004/DSA.git), [Full Stack Course](https://github.com/parth812004/Full-Stack-Course.git)
 
 - 🌱 I’m currently learning **Full Stack Development and DSA**
 

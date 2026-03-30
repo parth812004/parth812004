@@ -26,7 +26,7 @@
 - 🌱 Actively learning **core fundamentals of DSA and Computer Systems** to level up my problem-solving and engineering depth
 - 💬 Ask me about **DSA, C++, Web Development, React.js**
 - 🎨 I can also design **Canva projects for social media posts**
-- 📫 Reach me at **parths2004@duck.com**
+- 📫 Reach me at **premparth9892@gmail.com**
 - 👨‍💻 Explore my repos & deployed work: **[My GitHub Projects](https://github.com/parth812004?tab=repositories)**
 
 ---
@@ -120,22 +120,40 @@
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
+
+<!-- 1. Standard Readme Stats -->
+<!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=parth812004&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth812004&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
+<!-- 2. Streak Stats 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=parth812004&theme=tokyonight" alt="streak" />
 </p>
+-->
+
+<!-- 3. Lowlighter Metrics Alternative -->
+<!--
+<p align="center">
+  <img src="https://metrics.lecoq.io/parth812004?base=header,activity,community,repositories,metadata&config.theme=tokyonight" alt="Metrics" />
+</p>
+ -->
+ 
+<!-- 4. WakaTime Coding Hours -->
+```text
+JavaScript   25 hrs 30 mins  ██████████░░░░░░░░░░   40.0%
+C++          15 hrs 10 mins  ██████░░░░░░░░░░░░░░   25.0%
+Python       12 hrs 45 mins  █████░░░░░░░░░░░░░░░   20.0%
+HTML          6 hrs 20 mins  ██░░░░░░░░░░░░░░░░░░   10.0%
+CSS           3 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░    5.0%
+```
 
 ---
 
-## 🏅 Trophies
+## 📈 GitHub Activity
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=parth812004&theme=onedark&no-frame=true&margin-w=10" alt="trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth812004&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---

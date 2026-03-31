@@ -26,7 +26,7 @@
 - 🌱 Actively learning **core fundamentals of DSA and Computer Systems** to level up my problem-solving and engineering depth
 - 💬 Ask me about **DSA, C++, Web Development, React.js**
 - 🎨 I can also design **Canva projects for social media posts**
-- 📫 Reach me at **premparth9892@gmail.com**
+- 📫 Reach me at **parths2004@duck.com**
 - 👨‍💻 Explore my repos & deployed work: **[My GitHub Projects](https://github.com/parth812004?tab=repositories)**
 
 ---
